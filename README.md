@@ -31,7 +31,7 @@ After these steps the dataset is ready to be trained.
 To train the most suitable models for a regression problem are chosen. The metric chosen to value the models is RMSE.
 Once with the best models we use GridSearchCV to test with which parameters of that model we get a better result.
 
-También hemos usado la libreria H2o con su interfaz autoML que entrena los modelos más adecuados para los datos que tenemos.
+We have also used the H2o library with its autoML interface that trains the most appropriate models for the data we have.
 
 ### 3. Kaggle competition
 
